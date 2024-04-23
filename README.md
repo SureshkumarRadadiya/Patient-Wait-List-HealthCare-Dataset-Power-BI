@@ -16,12 +16,16 @@ HEALTHCARE DATA - PATIENT WAIT LIST
 2. Outpatient ==> A patient who receives medical treatment without being admitted to a hospital.
 
 1. Requirement Gathering
+   
 A) Identify Stakeholder's 
 ==> Establish a point of contact.
+
 B) Understand Business Objectives
  ==> Meetings & Communication.
+ 
 c) High Level Data Study 
 ==> Data Sources, Column Description, Data Type, Volume/Frequency & Data Quality 
+
 d) Define Scope.
 ==> Document KPI, Timelines, Expectations etc.
 
